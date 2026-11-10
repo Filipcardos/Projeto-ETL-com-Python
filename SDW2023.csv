@@ -1,5 +1,5 @@
-UserID
-João 
-Maria
-Pedro
-Alice
+UserID,Saldo_inicial
+João,5000
+Maria,3000
+Pedro,6000
+Alice,4000
